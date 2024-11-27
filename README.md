@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Thaís Sena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThyagoPorto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoPorto&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaísSena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaísSena&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br> 
   
