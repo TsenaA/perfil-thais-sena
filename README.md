@@ -1,8 +1,8 @@
 ## Olá! Tudo bem com você? Espero que sim! Seja bem vindo ao meu perfil. 
 
 <div align="center">
-  <a href="https://github.com/Thaís  Sena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thaís Sena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/ThaísSena">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaísSena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaísSena&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br> 
